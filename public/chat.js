@@ -1,3 +1,4 @@
+
 (function () {
   const widgetStyles = `
     #augmentem-chat-button {
